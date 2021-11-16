@@ -10,3 +10,6 @@ carbon_stored.*
 ^.*\.RData$
 ^.pre-commit-config.yaml$
 ^\.pre-commit-config\.yaml$
+^figures$
+^data-raw$
+

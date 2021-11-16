@@ -42,6 +42,7 @@ Imports:
     dplyr,
     edgeTransport,
     gdata,
+    ggplot2,
     Hmisc,
     luscale,
     magrittr,
